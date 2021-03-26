@@ -1,0 +1,20 @@
+C:\AzureDevOps\IS.CSharp.Assessment\Question1\bin\Debug\Question1.exe.config
+C:\AzureDevOps\IS.CSharp.Assessment\Question1\bin\Debug\Question1.exe
+C:\AzureDevOps\IS.CSharp.Assessment\Question1\bin\Debug\Question1.pdb
+C:\AzureDevOps\IS.CSharp.Assessment\Question1\obj\Debug\Question1.csproj.CoreCompileInputs.cache
+C:\AzureDevOps\IS.CSharp.Assessment\Question1\obj\Debug\Question1.exe
+C:\AzureDevOps\IS.CSharp.Assessment\Question1\obj\Debug\Question1.pdb
+C:\AzureDevOps\IS.CSharp.Assessment\Question1\obj\Debug\Question1.csprojAssemblyReference.cache
+C:\Users\Adhil\Desktop\Dev Practice\CSharpJuniorDevAssessment\Question1\bin\Debug\Question1.exe.config
+C:\Users\Adhil\Desktop\Dev Practice\CSharpJuniorDevAssessment\Question1\bin\Debug\Question1.exe
+C:\Users\Adhil\Desktop\Dev Practice\CSharpJuniorDevAssessment\Question1\bin\Debug\Question1.pdb
+C:\Users\Adhil\Desktop\Dev Practice\CSharpJuniorDevAssessment\Question1\obj\Debug\Question1.csprojAssemblyReference.cache
+C:\Users\Adhil\Desktop\Dev Practice\CSharpJuniorDevAssessment\Question1\obj\Debug\Question1.csproj.CoreCompileInputs.cache
+C:\Users\Adhil\Desktop\Dev Practice\CSharpJuniorDevAssessment\Question1\obj\Debug\Question1.exe
+C:\Users\Adhil\Desktop\Dev Practice\CSharpJuniorDevAssessment\Question1\obj\Debug\Question1.pdb
+C:\Users\TRQ0351\Desktop\Dev Practice\Dev Practice\CSharpJuniorDevAssessment\Question1\bin\Debug\Question1.exe.config
+C:\Users\TRQ0351\Desktop\Dev Practice\Dev Practice\CSharpJuniorDevAssessment\Question1\bin\Debug\Question1.exe
+C:\Users\TRQ0351\Desktop\Dev Practice\Dev Practice\CSharpJuniorDevAssessment\Question1\bin\Debug\Question1.pdb
+C:\Users\TRQ0351\Desktop\Dev Practice\Dev Practice\CSharpJuniorDevAssessment\Question1\obj\Debug\Question1.csprojAssemblyReference.cache
+C:\Users\TRQ0351\Desktop\Dev Practice\Dev Practice\CSharpJuniorDevAssessment\Question1\obj\Debug\Question1.exe
+C:\Users\TRQ0351\Desktop\Dev Practice\Dev Practice\CSharpJuniorDevAssessment\Question1\obj\Debug\Question1.pdb
